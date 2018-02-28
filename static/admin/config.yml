@@ -1,6 +1,7 @@
 backend:
   name: github
   branch: master
+  repo: shared-sites/vlado
 
 media_folder: static/img
 public_folder: /img
