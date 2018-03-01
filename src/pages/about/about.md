@@ -25,4 +25,4 @@ We want to truly empower the communities that bring amazing coffee to you. Thatâ
 
 ### Schwarzer Kaffee
 
-Just test with schwarz...
+Local test
