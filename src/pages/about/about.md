@@ -25,6 +25,4 @@ We want to truly empower the communities that bring amazing coffee to you. That‚
 
 ### Schwarzer Kaffee
 
-Local test
-
-![cat](/static/assets/sofacat.jpg)
+![Sch√∂ne Katze](/assets/sofacat.jpg)
